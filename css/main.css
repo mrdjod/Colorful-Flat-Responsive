@@ -49,7 +49,7 @@ a.dropdown-toggle .benefits:hover{
 	text-decoration: none;
 }
 .recent{
-	height:700px;
+	height:830px;
 	background-color: #9BD2A7;
 	margin-top:5%;
 }
@@ -572,6 +572,26 @@ footer i.fa.fa.github.fa.lg.soft{
 		height:1100px;
 	}
 }
+@media(max-width:1175px){
+	.recent{
+		height:800px;
+	}
+}
+@media(max-width:975px){
+	.recent{
+		height:655px;
+	}
+}
+@media(max-width:585px){
+	.recent{
+		height:525px;
+	}
+}
+
+
+
+
+
 
 
 
